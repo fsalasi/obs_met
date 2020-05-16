@@ -17,3 +17,10 @@ query = str_replace(query, "%FF%", end_date)
 
 rs <- dbSendQuery(con, query)
 data <- dbFetch(rs)
+
+# clear the environment non important variables and data
+rm(end_date)
+rm(start_date)
+rm(query)
+rm(con)
+rm(rs)
