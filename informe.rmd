@@ -1,8 +1,8 @@
 ---
 title: "Primer Informe"
 author: "Francisco Salas"
-date: May 17, 2020
-output: radix::radix_article
+date: "17/05/2020"
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
