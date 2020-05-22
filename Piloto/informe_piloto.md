@@ -14,7 +14,7 @@ En el siguiente gráfico se pueden observar las temperaturas máximas,
 mínimas, y las muestras instantáneas disponibles, para la estación
 meteorológica de AEMET en Andújar (Jaén), de los días 15 a 21 de mayo.
 
-![](informe_files/figure-gfm/temp_plor-1.png)<!-- -->
+![](../informe_files/figure-gfm/temp_plor-1.png)<!-- -->
 
 ### Código fuente
 
